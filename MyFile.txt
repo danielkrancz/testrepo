@@ -1,2 +1,1 @@
-variableMain=main1
-variableFeature=feature2
+variable=origin/main123
