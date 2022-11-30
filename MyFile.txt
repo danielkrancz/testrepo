@@ -1,1 +1,3 @@
 variable=origin/main123
+variableMain=main1
+variableFeature=feature3
