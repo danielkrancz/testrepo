@@ -1,1 +1,1 @@
-variable=origin/main
+variable=feature+origin/main
